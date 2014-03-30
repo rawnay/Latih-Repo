@@ -1,0 +1,10 @@
+@media (min-width: 768px){
+.controls {
+  width: 400px;
+}
+
+textarea {
+  width: 400px;
+  height: 200px;
+}
+}
